@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body ng-app="app">
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-animate.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap.js"></script>
+    
+    <script src="App/app.js"></script>
+    <script src="App/Shared/Services/modalService.js"></script>
+
+    <script src="App/Area/Services/uploadModel.js"></script>
+    <script src="App/Area/Services/sharedModel.js"></script>
+    <script src="App/Area/Services/basicService.js"></script>
+    
+    
+    <script src="App/Area/Controllers/testController.js"></script>
+    <script src="App/Area/Controllers/sampleController.js"></script>
+    
+
+
+    <div ng-controller="testController as test">
+        <h1>{{test.title}}</h1>
+        <h2>{{test.name}}</h2>
+        <h3>Called times {{test.sharedModel.callCount}}</h3>
+        <h3>Assigned times {{test.sharedModel.assignCount}}</h3>
+        <input type="button" ng-click="test.getData()" value="Get Data"/>
+    </div>
+    <div ng-controller="sampleController as sample">
+        <h3>Enter Date</h3>
+        <input type="date" ng-model="sample.birthDate" min="1955-01-01" max="2015-06-25" />
+        <h3>Number of Days Alive {{sample.daysAlive}}</h3>
+        <input type="button" ng-click="sample.calculate()" value="Calculate" />
+        <input type="button" ng-click="sample.getData()" value="Get Data" />
+    </div>
+
+</body>
+</html>
+

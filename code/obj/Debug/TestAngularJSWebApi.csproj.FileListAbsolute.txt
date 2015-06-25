@@ -1,0 +1,14 @@
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\obj\Debug\TestAngularJSWebApi.csprojResolveAssemblyReference.cache
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\AngularJSWebApiEmpty.dll.config
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\AngularJSWebApiEmpty.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\AngularJSWebApiEmpty.pdb
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\Newtonsoft.Json.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Net.Http.Formatting.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Web.Http.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Web.Http.WebHost.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\Newtonsoft.Json.xml
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Net.Http.Formatting.xml
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Web.Http.xml
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\bin\System.Web.Http.WebHost.xml
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\obj\Debug\AngularJSWebApiEmpty.dll
+E:\Development\Playground\SideWaffle\TestAngularJSWebApi\obj\Debug\AngularJSWebApiEmpty.pdb
